@@ -62,7 +62,6 @@ current_work = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="LLMs" width="45" height="45"/>
 </p>
 
 ### **Databases**
