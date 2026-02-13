@@ -1,13 +1,22 @@
+#      <p align="center">I'm Harshita Shakya</p>
 
-# I'm Harshita Shakya
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%3E%3E%3E+import+AI_Engineer;%3E%3E%3E+from+research+import+production;%3E%3E%3E+Building+LLMs+%7C+Deep+Learning;%3E%3E%3E+Neural+Networks+%7C+Agentic+AI;%3E%3E%3E+Scalable+Backend+Systems;%3E%3E%3E+Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-**Building intelligent systems that solve real problems**  
+<div align="center">
+
 B.Tech in AI & ML | Focused on AI amd ML Models,Deep Learning, Neural Networks ,Agentic AI, scalable backend systems, and production-grade machine learning
+
+![AI](https://img.shields.io/badge/AI-Deep_Learning-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Neural_Networks-purple?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Agentic_AI-blue?style=for-the-badge&logo=openai&logoColor=white)
+
 ```
 Always curious about AI 🤖
 ```
+</div>
 
----
 
 ## 👩‍💻 About Me
 
@@ -80,6 +89,8 @@ current_work = {
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
 </p>
 
+---
+
 ## 🛠️ Featured Projects
 
 **🤖 LLM Application**  
@@ -104,6 +115,16 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 - Writing clean, maintainable code that others can build on
 - Understanding both the math behind models and the engineering to deploy them
 - Contributing to open-source ML tools and frameworks
+
+---
+
+## 📊 GitHub Analytics
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HarshitaShakya&theme=radical&hide_border=true&background=EB545400&stroke=FF0080&ring=FFD700&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6EC7&sideLabels=00FF87&dates=AAAAAA&border_radius=15" height="170"/>
+</p>
 
 ---
 
