@@ -115,7 +115,7 @@ Full-stack CRUD application with REST API backend and database integration
 **⚡ Backend API Suite**  
 Production-ready APIs built with Flask, focused on scalability and clean architecture
 
-> 👉 All projects are available on my [GitHub Profile](https://github.com/HarshitaShakya)
+> 👉 All the projects are available on my [GitHub Profile](https://github.com/HarshitaShakya)
 
 ---
 
