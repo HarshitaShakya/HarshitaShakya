@@ -164,6 +164,14 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 
 ---
 
+## 🕹️ Contribution Pac-Man
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshitaShakya/HarshitaShakya/output/pacman.svg" alt="Pac-Man contribution graph"/>
+</p>
+
+---
+
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-shakya-33a1a4316)
