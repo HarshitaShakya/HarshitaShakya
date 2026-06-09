@@ -18,6 +18,9 @@ Always curious about AI 🤖
 </div>
 
 
+</div>
+
+
 ## 👩‍💻 About Me
 
 I'm an AI engineering student who writes code to make machines smarter. Currently exploring large language models, training custom ML pipelines, and building full-stack applications that bridge AI research with real-world deployment.
@@ -128,12 +131,35 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" alt="Microsoft Azure Data Fundamentals"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="120" alt="Microsoft Azure AI Fundamentals"/>
+  </a>
+</p>
+
+
+
+---
+
 ## 📊 GitHub Analytics
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=HarshitaShakya&theme=radical&hide_border=true&background=EB545400&stroke=FF0080&ring=FFD700&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6EC7&sideLabels=00FF87&dates=AAAAAA&border_radius=15" height="170"/>
+</p>
+
+---
+
+
+## Contribution Map
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaShakya&theme=react-dark&hide_border=true&area=true&color=00FF41&line=FF0080&point=FFD700&area_color=00FF4120" alt="Contribution Graph"/>
 </p>
 
 ---
