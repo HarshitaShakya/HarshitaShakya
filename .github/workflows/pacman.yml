@@ -14,11 +14,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man
+        uses: hugowauthier/pacman-contribution@v1
         with:
-          github_user_name: HarshitaShakya
-          outputs: |
-            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#006400,#238636,#2ea043,#56d364&type=pacman
+          github_user: HarshitaShakya
+          svg_out_path: dist/pacman.svg
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
