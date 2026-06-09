@@ -166,9 +166,10 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 
 ## 🕹️ Contribution Pac-Man
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshitaShakya/HarshitaShakya/output/pacman.svg" alt="Pac-Man contribution graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshitaShakya/HarshitaShakya/output/pacman-contribution-graph-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/HarshitaShakya/HarshitaShakya/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+</picture>
 
 ---
 
