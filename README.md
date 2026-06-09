@@ -42,67 +42,56 @@ current_work = {
 
 ## 💻 Technology Arsenal
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**🔤 Core Languages**
 
-### **Core Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="margin:4px"/>
 </p>
 
-### **Frontend Development**
+**🎨 Frontend Development**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" style="margin:4px"/>
 </p>
 
-### **Backend & APIs**
+**⚙️ Backend & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=flask" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=express" width="45" style="margin:6px"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" style="margin:6px"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=express" width="35" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" style="margin:4px"/>
 </p>
 
-</td>
-
-<td valign="top" width="50%">
-
-### **AI & Machine Learning**
+**🤖 AI & Machine Learning**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" style="margin:6px"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" style="margin:4px"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" style="margin:4px"/>
 </p>
 
-### **Databases**
+**🗄️ Databases**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="45" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="35" style="margin:4px"/>
 </p>
 
-### **Developer Tools**
+**🛠️ Developer Tools**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="margin:6px"/>
-  <img src="https://skillicons.dev/icons?i=github" width="45" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" style="margin:6px"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=github" width="35" style="margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" style="margin:4px"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Featured Projects
 
@@ -157,9 +146,9 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 ---
 
 
-## Contribution Map
+## 📈 Contribution Map
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaShakya&theme=react-dark&hide_border=true&area=true&color=00FF41&line=FF0080&point=FFD700&area_color=00FF4120" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaShakya&theme=react-dark&hide_border=true&area=true&color=00BFFF&line=1E90FF&point=00FFFF&area_color=1E90FF30&hide_title=true" alt="Contribution Graph"/>
 </p>
 
 ---
