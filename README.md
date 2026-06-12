@@ -96,16 +96,16 @@ current_work = {
 ## 🛠️ Featured Projects
 
 **🤖 LLM Application**  
-Custom application leveraging large language models for intelligent text processing
+Custom application leveraging large language models for intelligent text processing.
 
 **🛡️ Spam Detection System**  
-ML-based classifier with feature engineering and model evaluation pipeline
+ML-based classifier with feature engineering and model evaluation pipeline.
 
 **👥 Flask Employee Management**  
-Full-stack CRUD application with REST API backend and database integration
+Full-stack CRUD application with REST API backend and database integration.
 
 **⚡ Backend API Suite**  
-Production-ready APIs built with Flask, focused on scalability and clean architecture
+Production-ready APIs built with Flask, focused on scalability and clean architecture.
 
 > 👉 All the projects are available on my [GitHub Profile](https://github.com/HarshitaShakya)
 
