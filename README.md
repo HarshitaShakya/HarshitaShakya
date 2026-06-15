@@ -96,7 +96,7 @@ current_work = {
 ## 🛠️ Featured Projects
 
 **🤖 LLM Application**  
-Custom application leveraging large language models for intelligent text processing.
+Custom application leveraging the large language models for intelligent text processing.
 
 **🛡️ Spam Detection System**  
 ML-based classifier with feature engineering and model evaluation pipeline.
