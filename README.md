@@ -25,7 +25,7 @@ Always curious about AI 🤖
 
 I'm an AI engineering student who writes code to make machines smarter. Currently exploring large language models, training custom ML pipelines, and building full-stack applications that bridge AI research with real-world deployment.
 
-I believe in learning by building—every project teaches me something new about production the systems, model optimization, or software architecture. My goal is to contribute to AI systems that create measurable impact in healthcare, automation, or intelligent tooling.
+I believe in learning by building—every project teaches me something new about production systems, model optimization, or software architecture. My goal is to contribute to AI systems that create measurable impact in healthcare, automation, or intelligent tooling.
 
 ---
 
