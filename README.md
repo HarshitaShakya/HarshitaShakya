@@ -1,9 +1,14 @@
-#      <p align="center">I'm Harshita Shakya</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%3E%3E%3E+import+AI_Engineer;%3E%3E%3E+from+research+import+production;%3E%3E%3E+Building+LLMs+%7C+Deep+Learning;%3E%3E%3E+Neural+Networks+%7C+Agentic+AI;%3E%3E%3E+Scalable+Backend+Systems;%3E%3E%3E+Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header.svg">
+    <img src="./header.svg" alt="Harshita Shakya" width="800">
+  </picture>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Building+Agentic+AI+systems+%F0%9F%A4%96;%3E%3E%3E+import+AI_Engineer;%3E%3E%3E+from+research+import+production;%3E%3E%3E+Building+LLMs+%7C+Deep+Learning;%3E%3E%3E+Neural+Networks+%7C+Agentic+AI;%3E%3E%3E+Scalable+Backend+Systems;%3E%3E%3E+Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <div align="center">
 
 B.Tech in AI & ML | Focused on AI amd ML Models,Deep Learning, Neural Networks ,Agentic AI, scalable backend systems, and production-grade machine learning
