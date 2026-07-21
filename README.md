@@ -118,7 +118,7 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 
 ## 💭 What Drives Me
 
-- Translating research papers into working prototypes
+- Translating research papers into the working prototypes
 - Writing clean, maintainable code that others can build on
 - Understanding both the math behind models and the engineering to deploy them
 - Contributing to open-source ML tools and frameworks
