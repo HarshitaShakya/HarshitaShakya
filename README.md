@@ -140,6 +140,10 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Certified: Fabric Data Engineer Associate"/>
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/SQL-AI-Developer-associate/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Certified: Fabric Data Engineer Associate"/>
+  </a>
 </p>
 
 
