@@ -161,7 +161,7 @@ Production-ready APIs built with Flask, focused on scalability and clean archite
 
 ## 📈 Contribution Map
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaShakya&theme=react-dark&hide_border=true&area=true&color=00BFFF&line=1E90FF&point=00FFFF&area_color=1E90FF30&hide_title=true" alt="Contribution Graph"/>
+  <img src="./neural-graph.svg" alt="Neural contribution graph" width="800"/>
 </p>
 
 ---
