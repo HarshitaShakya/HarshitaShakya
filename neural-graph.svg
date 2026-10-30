@@ -286,6 +286,7 @@
 <circle cx="765.0" cy="83.0" r="1.4" fill="#16382a"/>
 <circle cx="765.0" cy="97.0" r="1.4" fill="#16382a"/>
 <circle cx="765.0" cy="125.0" r="1.4" fill="#16382a"/>
+<circle cx="765.0" cy="139.0" r="1.4" fill="#16382a"/>
 <line x1="51.0" y1="153.0" x2="79.0" y2="139.0" stroke="#00ff41" stroke-opacity="0.26" stroke-width="1"/>
 <line x1="219.0" y1="153.0" x2="233.0" y2="153.0" stroke="#00ff41" stroke-opacity="0.27" stroke-width="1"/>
 <line x1="233.0" y1="153.0" x2="247.0" y2="125.0" stroke="#00ff41" stroke-opacity="0.28" stroke-width="1"/>
